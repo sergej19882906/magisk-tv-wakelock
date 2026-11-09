@@ -1,0 +1,6 @@
+id=tv_wakelock
+name=Wakelock for Android TV
+version=1.1.1
+versionCode=10101
+author=sergej19882906
+description=Keeps Android TV out of deep sleep with a kernel wakelock.
